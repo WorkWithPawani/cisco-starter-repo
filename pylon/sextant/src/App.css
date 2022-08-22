@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+
+.banner {
+  color: #3f51b5;
+  margin: 20px 250px 20px 250px;
+  padding: 20px;
+  text-transform: uppercase;
+  background-color: #b3ecff;
+  border: 2px solid #0000cc;
+  font-size: 40px;
+  font-family: 'Libre Baskerville', serif;
+  font-style: italic;
+  font-weight: 500;
+}
+
+.Card1 {
+  background-color: aquamarine;
+  margin: 200px 1500px 200px 100px;
+  padding: 200px;
+}
+
+.Card2 {
+  background-color: aquamarine;
+  margin: 200px 1500px 200px 100px;
+  padding: 200px;
+}
+
+.Card3 {
+  background-color: aquamarine;
+  margin: 200px 1500px 200px 100px;
+  padding: 200px;
+}
+
+
+

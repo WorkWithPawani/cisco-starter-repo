@@ -1,0 +1,9 @@
+.card {
+    background-color: aquamarine;
+    margin: 200px 1500px 200px 100px;
+    padding: 200px;
+}
+
+.data-point-container {
+    display: flex;
+}
