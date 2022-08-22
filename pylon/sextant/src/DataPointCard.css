@@ -4,3 +4,7 @@
     border: solid lightskyblue 3px;
     box-shadow: 0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
 }
+
+.latency-card {
+    border: solid #838fa7 3px;
+}
